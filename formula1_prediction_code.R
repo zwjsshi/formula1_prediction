@@ -1,4 +1,4 @@
-###Author: Zewen Shi, Anqi Chen 
+###Author: Anqi Chen, Zewen Shi 
 
 pit=read.csv("C:\\...\\pitStops.csv")
 qualifying=read.csv("C:\\...\\qualifying.csv")
